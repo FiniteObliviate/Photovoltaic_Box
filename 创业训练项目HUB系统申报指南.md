@@ -1,18 +1,14 @@
 # 大学生创新创业训练计划项目管理信息系统申报操作指南
 
- 
+ 教务处通知：[Click here](http://jwc.hust.edu.cn/info/1208/8845.htm)
 
 **一、登陆地址**
 
 学生通过：http://hubs.hust.edu.cn进行登录。
 
-​                               ![pic1](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133849600.png)
-
- 
+​          
 
 **二、选择“学生创新创业管理”进入申报系统**
-
- ![image-20210111133854044](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133854044.png)
 
  
 
@@ -22,13 +18,7 @@
 
 学生选择一个类型的项目进行申报，填写项目信息。
 
- ![image-20210111133900049](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133900049.png)
-
- 
-
 选择“创新训练”项目，系统会让学生勾选“是否学科交叉项目”如果是学科交叉项目，在这里选择“是”。
-
- ![image-20210111133904219](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133904219.png)
 
  
 
@@ -36,11 +26,7 @@
 
 指导教师需要做两步：1、接受学生的组队邀请。2、同意学生项目申报。先接受学生组队邀请，然后同意学生项目进行申报。
 
- ![image-20210111133910020](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133910020.png)
-
 审核学生项目是否能够申报。
-
- ![image-20210111133916067](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133916067.png)
 
  
 
