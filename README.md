@@ -24,3 +24,5 @@ For documents generated when constructing our science popularization project in 
    我们能做什么
 
    联系方式
+   
+   [Click here to see WordPress](https://wordpress.org/)
