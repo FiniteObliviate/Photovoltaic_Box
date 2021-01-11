@@ -1,6 +1,4 @@
-**大学生创新创业训练计划项目管理信息系统**
-
-**申报操作指南**
+# 大学生创新创业训练计划项目管理信息系统申报操作指南
 
  
 
@@ -8,7 +6,7 @@
 
 学生通过：http://hubs.hust.edu.cn进行登录。
 
-​                               ![image-20210111133849600](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133849600.png)
+​                               ![pic1](C:\Users\15973\AppData\Roaming\Typora\typora-user-images\image-20210111133849600.png)
 
  
 
