@@ -26,3 +26,5 @@ For documents generated when constructing our science popularization project in 
    联系方式
    
    [Click here to see WordPress](https://wordpress.org/)
+   
+   [网页模板效果预览](https://wordpress.com/theme/twentyseventeen)
