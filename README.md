@@ -13,7 +13,7 @@ For documents generated when constructing our science popularization project in 
 
    Experiment 03-07：ZYD
 
-   Experiment 08-12：ZZQ
+   Experiment 08-12：ZZQ ✅
 
    [Click here to see the Experiments](http://www.solarspark.chem.ed.ac.uk/experiments/teachers/classroom-experiments)
 
