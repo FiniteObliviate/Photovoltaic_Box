@@ -1,6 +1,8 @@
 # Photovoltaic Box
 For documents generated when constructing our science popularization project in 2021.
 
+Please refer to our [website](https://hefacai.github.io/Photovoltaic_Web/) to view the content.
+
 ## Plans made on 2021.1.11
 
 1. 简介
@@ -13,7 +15,7 @@ For documents generated when constructing our science popularization project in 
 
    Experiment 03-07：ZYD
 
-   Experiment 08-12：ZZQ ✅
+   Experiment 08-12：ZZQ 
 
    [Click here to see the Experiments](http://www.solarspark.chem.ed.ac.uk/experiments/teachers/classroom-experiments)
 
@@ -25,6 +27,4 @@ For documents generated when constructing our science popularization project in 
 
    联系方式
    
-   [Click here to see WordPress](https://wordpress.org/)
    
-   [网页模板效果预览](https://wordpress.com/theme/twentyseventeen)
